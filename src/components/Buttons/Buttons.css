@@ -1,0 +1,21 @@
+.buttons-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button {
+  padding: 4% 0;
+  font-size: 0.90em;
+  width: 25%;
+  margin: 3% 0;
+  background: none;
+  color: black;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid black;
+}
+
+.operator {
+  color: black;
+  font-size: 1.2em;
+}
